@@ -142,5 +142,5 @@
         ...
     ./mecab-ko-dic-2.1.1-20180720/tools/add-userdic.sh 
     
-user_dic_generator
+[user_dic_generator](user_dic_generator.py)
 ### 
