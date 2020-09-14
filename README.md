@@ -1,7 +1,7 @@
 # HelloMeCab
 
 ***
-## 아무것도 없는 Docker에서 필요한 리소스 시작하기
+## 아무것도 없는 Docker에서 MeCab-ko 시작하기
 ***
 
 ## 0. 기본
