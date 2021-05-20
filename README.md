@@ -6,7 +6,7 @@
 
 ## 0. 기본
     apt-get update
-    apt-get -y install vim wget libtool autoconf make g++
+    apt-get -y install g++ vim wget libtool autoconf make
     echo "export LC_ALL=ko_KR.UTF-8" >> ~/.bashrc
 
 ### 0.1. Hello C++ !!
